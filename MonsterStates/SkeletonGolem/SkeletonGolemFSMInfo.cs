@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 FSM 관련 수치 관리 컴포넌트
 public class SkeletonGolemFSMInfo : MonoBehaviour
 {
     [SerializeField] private CharacterStatSO stats;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 FSM 컨트롤러
 public class SkeletonGolemFSMController : MonoBehaviour
 {
     public enum STATE { IDLE, DETECT, ATTACK, SPECIALATTACK, SUMMON, STUN, DEATH }

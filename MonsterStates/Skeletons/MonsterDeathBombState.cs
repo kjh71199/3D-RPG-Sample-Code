@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 자폭 공격 상태 컴포넌트
 public class MonsterDeathBombState : MonsterDeathState
 {
     [SerializeField] protected float bombDelayTime;

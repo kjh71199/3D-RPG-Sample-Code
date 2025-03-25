@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 훨윈드 스킬 컴포넌트
 public class SkillWhirlWind : Skill
 {
     private WaitForSeconds startDelay;

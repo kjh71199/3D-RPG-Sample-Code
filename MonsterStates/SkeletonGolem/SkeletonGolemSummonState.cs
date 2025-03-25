@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 졸병 소환 상태 컴포넌트 
 public class SkeletonGolemSummonState : SkeletonGolemState
 {
     [SerializeField] GameObject[] summonPrefabs;

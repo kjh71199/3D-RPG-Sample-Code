@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 보스 UI 관리 컴포넌트
 public class BossUIManager : MonoBehaviour
 {
     [SerializeField] private GameObject bossUIPanel;

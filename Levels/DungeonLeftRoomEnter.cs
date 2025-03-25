@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 던전 왼쪽 방 입장 이벤트
 public class DungeonLeftRoomEnter : MonoBehaviour
 {
     private Collider leftCollider;

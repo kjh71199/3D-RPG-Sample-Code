@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 상호작용 가능 오브젝트 추상 클래스
 public abstract class InteractableObject : MonoBehaviour
 {
     private Collider interactableCollider;

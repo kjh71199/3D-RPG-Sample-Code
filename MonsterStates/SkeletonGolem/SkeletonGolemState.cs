@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+// 보스 FSM 상태 추상 클래스
 public abstract class SkeletonGolemState : MonoBehaviour
 {
     protected SkeletonGolemFSMController controller;

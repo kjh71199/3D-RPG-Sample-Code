@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 FSM 관련 수치 관리 컴포넌트
 public class MonsterFSMInfo : MonoBehaviour
 {
     [SerializeField] private CharacterStatSO stats;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 기절 상태 컴포넌트
 public class SkeletonGolemStunState : SkeletonGolemState
 {
     [SerializeField] private ParticleSystem stunParticle;

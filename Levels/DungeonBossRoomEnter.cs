@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 방 입장 이벤트
 public class DungeonBossRoomEnter : MonoBehaviour
 {
     private Collider bossCollider;

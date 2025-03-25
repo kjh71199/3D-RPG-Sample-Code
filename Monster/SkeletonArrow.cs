@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 화살 투사체 컴포넌트
 public class SkeletonArrow : SkeletonProjectile
 {
     private MonsterRangeAttackState rangeAttack;

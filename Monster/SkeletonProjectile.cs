@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 투사체 추상 클래스
 public abstract class SkeletonProjectile : MonoBehaviour
 {
     [SerializeField] protected Vector3 direction;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+// 플레이어 스킬 자원 컴포넌트
 public class PlayerSkillResource : MonoBehaviour
 {
     [SerializeField] protected Stats stats;

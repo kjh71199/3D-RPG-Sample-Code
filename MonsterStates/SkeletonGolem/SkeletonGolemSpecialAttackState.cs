@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 특수 공격 컴포넌트
 public class SkeletonGolemSpecialAttackState : SkeletonGolemState
 {
     protected bool isAttackAnimation;

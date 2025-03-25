@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 원거리 공격 상태 컴포넌트
 public class MonsterRangeAttackState : MonsterState
 {
     [SerializeField] protected GameObject projectilePrefab;

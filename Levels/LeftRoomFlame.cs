@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Highlighters;
 
+// 던전 왼쪽 방 화염함정 컴포넌튼
 public class LeftRoomFlame : MonoBehaviour
 {
     [SerializeField] private ParticleSystem flameParticle;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// NPC 상호작용 컴포넌트
 public class InteractableNPC : InteractableObject
 {
     [SerializeField] private DialogueManager dialogueManager;

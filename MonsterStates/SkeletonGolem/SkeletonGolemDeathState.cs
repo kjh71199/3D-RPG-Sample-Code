@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+// 보스 사망 상태 컴포넌트
 public class SkeletonGolemDeathState : SkeletonGolemState
 {
     [SerializeField] protected float deathDelayTime;

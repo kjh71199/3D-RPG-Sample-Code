@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
+// 플레이어 공격 입력 컴포넌트
 public class InputMeleeAttack : MonoBehaviour
 {
     private MeleeAttack meleeAttack;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 플레이어 공격 컴포넌트
 public class PlayerMeleeAttack : NormalMeleeAttack
 {
     private bool isHit;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-// 타겟 터치 위치 이동 컴포넌트
+// 플레이어 터치 위치 이동 컴포넌트
 public class InputNavmeshMovement : MonoBehaviour
 {
     private static InputNavmeshMovement instance;

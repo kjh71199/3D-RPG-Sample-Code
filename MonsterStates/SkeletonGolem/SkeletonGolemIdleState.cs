@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 대기 상태 컴포넌트
 public class SkeletonGolemIdleState : SkeletonGolemState
 {
     [SerializeField] protected float checkTime;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 마법 구체 투사체 컴포넌트
 public class SkeletonMagicBall : SkeletonProjectile
 {
     private MonsterMagicAttackState magicAttack;

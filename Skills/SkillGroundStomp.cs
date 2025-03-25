@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 발구르기 스킬 컴포넌트
 public class SkillGroundStomp : Skill
 {
     private DamageSkillSO damageData;

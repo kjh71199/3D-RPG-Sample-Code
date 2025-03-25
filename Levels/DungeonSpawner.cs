@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+// 던전 방 입장 시 몬스터 소환 컴포넌트
 public class DungeonSpawner : MonoBehaviour
 {
     [SerializeField] GameObject[] monsterPrefabs;

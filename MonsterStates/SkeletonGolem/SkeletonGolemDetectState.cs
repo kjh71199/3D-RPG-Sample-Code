@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 추적 상태 컴포넌트
 public class SkeletonGolemDetectState : SkeletonGolemState
 {
     public override void EnterState(SkeletonGolemFSMController.STATE state, object data = null)

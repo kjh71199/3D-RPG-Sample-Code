@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 던전 이벤트 관리자 컴포넌트
 public class DungeonEventManager : MonoBehaviour
 {
     private DungeonSpawner spawner;

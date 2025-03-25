@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 기절 상태 컴포넌트
 public class MonsterStunState : MonsterState
 {
     [SerializeField] private float stunTime;

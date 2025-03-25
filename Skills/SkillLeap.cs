@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 도약 스킬 컴포넌트
 public class SkillLeap : Skill
 {
     private DamageSkillSO damageData;

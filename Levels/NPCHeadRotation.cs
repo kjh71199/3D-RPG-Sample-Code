@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// NPC의 머리 회전 컴포넌트
 public class NPCHeadRotation : MonoBehaviour
 {
     [SerializeField] private GameObject head;

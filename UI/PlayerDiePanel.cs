@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 플레이어 사망 UI 컴포넌트
 public class PlayerDiePanel : MonoBehaviour
 {
     [SerializeField] private GameObject playerDie;

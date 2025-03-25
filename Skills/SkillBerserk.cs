@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// ±¤ÆøÈ­ ½ºÅ³ ÄÄÆ÷³ÍÆ®
 public class SkillBerserk : Skill
 {
     BuffSkillSO buffData;

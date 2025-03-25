@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 체력 컴포넌트
 public class MonsterHealth : Health
 {
     [SerializeField] protected CharacterStatSO stats;

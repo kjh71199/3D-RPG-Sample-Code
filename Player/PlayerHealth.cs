@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 플레이어 체력 컴포넌트
 public class PlayerHealth : Health
 {
     protected Animator animator;

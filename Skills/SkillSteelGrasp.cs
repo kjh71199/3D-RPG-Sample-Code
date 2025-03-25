@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+// °­Ã¶ ¼Õ¾Æ±Í ½ºÅ³ ÄÄÆ÷³ÍÆ®
 public class SkillSteelGrasp : Skill
 {
     private DamageSkillSO damageData;

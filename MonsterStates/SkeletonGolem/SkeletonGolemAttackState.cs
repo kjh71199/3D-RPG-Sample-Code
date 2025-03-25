@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 보스 공격 상태 컴포넌트
 public class SkeletonGolemAttackState : SkeletonGolemState
 {
     private float animationTime;

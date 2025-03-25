@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+// 몬스터 FSM 추상 클래스
 public abstract class MonsterState : MonoBehaviour
 {
     protected MonsterFSMController controller;

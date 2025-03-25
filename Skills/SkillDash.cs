@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 대쉬 스킬 컴포넌트
 public class SkillDash : Skill
 {
     BuffSkillSO buffData;

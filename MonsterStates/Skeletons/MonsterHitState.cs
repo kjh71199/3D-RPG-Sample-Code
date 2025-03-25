@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 피격 상태 컴포넌트
 public class MonsterHitState : MonsterState
 {
     [SerializeField] private bool isHit;

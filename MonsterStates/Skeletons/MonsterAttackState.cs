@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 공격 상태 컴포넌트
 public class MonsterAttackState : MonsterState
 {
     private float animationTime;

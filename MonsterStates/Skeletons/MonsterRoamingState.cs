@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+// 몬스터 배회 상태 컴포넌트
 public class MonsterRoamingState : MonsterState
 {
     protected Transform targetTransform = null;

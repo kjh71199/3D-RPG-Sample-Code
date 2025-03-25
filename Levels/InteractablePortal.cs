@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 탈출 포탈 상호작용 컴포넌트
 public class InteractablePortal : InteractableObject
 {
     public override void Interaction()

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// 상호작용 가능한 오브젝트와 접근시 UI 표시 컴포넌트
 public class InteractionUIPopup : MonoBehaviour
 {
     [SerializeField] private Collider playerCollider;

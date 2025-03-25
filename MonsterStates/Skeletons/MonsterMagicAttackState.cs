@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 마법 공격 상태 컴포넌트
 public class MonsterMagicAttackState : MonsterRangeAttackState
 {
     [SerializeField] protected float castTime;

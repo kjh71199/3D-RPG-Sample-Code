@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// ³´ ÀÌµ¿ ÄÄÆ÷³ÍÆ®
 public class SickleMovement : MonoBehaviour
 {
     LineRenderer lineRenderer;

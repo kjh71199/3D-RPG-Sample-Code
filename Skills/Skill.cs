@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 플레이어 스킬 추상 클래스
 public abstract class Skill : MonoBehaviour
 {
     public enum SKILLTYPE { ATTACK, BUFF }

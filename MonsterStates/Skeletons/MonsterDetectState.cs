@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 몬스터 추적 상태 컴포넌트
 public class MonsterDetectState : MonsterState
 {
-    // 추적 상태 시작
     public override void EnterState(MonsterFSMController.STATE state, object data = null)
     {
         base.EnterState(state, data);
