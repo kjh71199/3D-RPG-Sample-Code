@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-// 스킬 슬롯 컴포넌트
+// 스킬 슬롯 UI 컴포넌트
 public class SkillSlotUI : MonoBehaviour
 {
     [SerializeField] private Image skillIcon;           // 스킬 아이콘 이미지
